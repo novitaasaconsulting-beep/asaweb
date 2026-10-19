@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://izinjadimudah.com/sitemap.xml
+Sitemap: https://izinjadimudah.vercel.app/sitemap.xml
